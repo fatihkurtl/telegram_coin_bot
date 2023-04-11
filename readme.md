@@ -8,4 +8,5 @@ The start(), help(), and stop() functions handle the respective commands on Tele
 
 The error() function handles any errors that may occur while running the bot.
 
-Finally, the main loop sets up the Telegram bot using the updater object and adds the necessary command handlers. It then starts the bot to listen for incoming messages and starts an infinite loop to periodically check the BTC price using the check_price() function. The asyncio library is used to run the check_price() function asynchronously.
+Finally, the main loop sets up the Telegram bot using the updater object and adds the necessary command handlers. It then starts the bot to listen for incoming messages and starts an infinite loop to periodically check the BTC price using the check_price() function. The asyncio library is used to run the check_price() function asynchronously.![photo1681246864](https://user-images.githubusercontent.com/101009145/231287540-37b2c364-3ac1-49b9-86cd-0b94efae2530.jpeg)
+![photo1681246864(1)](https://user-images.githubusercontent.com/101009145/231287556-ba6d58e0-ddb9-4874-863c-52f7b4793a59.jpeg)
